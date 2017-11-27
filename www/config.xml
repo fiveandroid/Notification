@@ -62,10 +62,10 @@
     <plugin name="cordova-plugin-vibration" />
     <plugin name="cordova-opentok-android-permissions" source="npm" />
 	
-	<!--Plugin de notificaciones --> 
+	<!--Plugin de notificaciones  
     <gap:plugin name="com.phonegap.plugins.pushplugin"/> 
     <access origin="*" />
-
+-->
 
     <!-- Third party plugins -->
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
