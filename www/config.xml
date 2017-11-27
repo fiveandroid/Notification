@@ -73,7 +73,7 @@
 	
 	
 	
-	<plugin name="com.pushwoosh.plugins.pushwoosh" spec="3.0.2" source="pgb" />
+	<plugin name="com.pushwoosh.plugins.pushwoosh" spec="3.4.2" source="pgb" />
 	<access origin="*" />
 
     <!-- Third party plugins -->
