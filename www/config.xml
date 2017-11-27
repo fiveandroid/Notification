@@ -73,7 +73,7 @@
 	
 	
 	
-	<plugin name="com.pushwoosh.plugins.pushwoosh" spec="3.4.2" source="pgb" />
+	<plugin name="cn.push.cordova.plugin.local-notification" spec="0.7.8" source="pgb" />
 	<access origin="*" />
 
     <!-- Third party plugins -->
